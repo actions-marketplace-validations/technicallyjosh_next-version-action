@@ -29,11 +29,11 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "semver": "^7.3.7"
+    "semver": "^7.3.8"
   },
   "devDependencies": {
     "@types/node": "^16.10.5",
-    "@types/semver": "^7.3.12",
+    "@types/semver": "^7.3.13",
     "@vercel/ncc": "^0.34.0",
     "eslint": "^8.24.0",
     "eslint-plugin-github": "^4.3.7",
